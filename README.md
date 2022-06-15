@@ -7,9 +7,9 @@ The given full stack has been deveoped as a prototype/project for Highradius dur
 
 =====================  FRONTEND  =============================
 
-PUBLIC AND SRC FILES HAVE THE REACT.JS AND MATERIAL UI CODES 
+frontend/public AND frontend/src directories contain the react.js and material ui code.
 
-Other required libraried such as node modules are to be added.
+Other required libraries such as node modules are to be added by default.
 
 
 
@@ -19,7 +19,7 @@ Other required libraried such as node modules are to be added.
 
 =====================  BACKEND  =============================
 
-SUMMA HAS THE FILES NEEDED FOR THE BACKEND
+/backend/summa contains the directories needed to implement the backend functionalities.
 
-Includes the servlets need to establish connection to a databse and also connect with the frontend
+Includes the servlets needed to establish connection to a databse and also connect with the frontend.
 
